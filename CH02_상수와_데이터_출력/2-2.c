@@ -1,13 +1,13 @@
 /*
 	Author : MyungHoon Jin
-	Title  : ¹®ÀÚ¿­À» È­¸é¿¡ Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥
+	Title  : ë¬¸ìì—´ì„ í™”ë©´ì— ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ë¨
 */
 
-#include <stdio.h> // stdio : standard input output(Ç¥ÁØÀÔÃâ·Â)ÀÇ ÁÙÀÓ¸»
-				   // stdio.hÀÇ ³»¿ëÀ» ÇÁ·Î±×·¥ ¾È¿¡ º¹»ç
+#include <stdio.h> // stdio : standard input output(í‘œì¤€ì…ì¶œë ¥)ì˜ ì¤„ì„ë§
+				   // stdio.hì˜ ë‚´ìš©ì„ í”„ë¡œê·¸ë¨ ì•ˆì— ë³µì‚¬
 
 int main(void) {
-	printf("Be happy"); // printf: stdio.h¾ÈÀÇ ³»Àå ÀÔÃâ·Â ÇÔ¼ö
+	printf("Be happy"); // printf: stdio.hì•ˆì˜ ë‚´ì¥ ì…ì¶œë ¥ í•¨ìˆ˜
 	printf("My friend");
 	return 0;
 }
