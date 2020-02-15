@@ -1,5 +1,5 @@
 /*
-	Author  : MyungHoon Jin
+    Author  : MyungHoon Jin
 	Chapter : 2장
 	Title   : 세 가지 진법의 정수 상수
 */
