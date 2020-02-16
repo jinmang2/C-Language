@@ -58,3 +58,4 @@ int main(void) {
     return 0;
 }
 ```
+<img src="https://github.com/jinmang2/HonGongC/blob/master/img/실행화면.PNG?raw=true" >
