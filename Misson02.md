@@ -18,7 +18,7 @@
 <img src="https://github.com/jinmang2/HonGongC/blob/master/img/4-1-3.jpg?raw=true?raw=true" >
 
 #### 4-2 확인문제
-<img src="https://github.com/jinmang2/HonGongC/blob/master/img/4-2-1.jpg?raw=true?raw=true" >
+<img src="https://github.com/jinmang2/HonGongC/blob/master/img/4-2-1(수정).jpg?raw=true?raw=true" >
 <img src="https://github.com/jinmang2/HonGongC/blob/master/img/4-2-2.jpg?raw=true?raw=true" >
 
 ## 선택 미션
