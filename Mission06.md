@@ -1,4 +1,4 @@
-# 혼공C 5주차 기본/선택 미션
+# 혼공C 6주차 기본/선택 미션
 - 저자: [MyungHoon-Jin](https://github.com/jinmang2)
 - #혼공단 #혼공C
 ## 기본 미션
